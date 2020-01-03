@@ -393,3 +393,5 @@ be observed. It can be assumed that the load of the processor at that moment may
 """)
        
 ```
+
+![Images](https://raw.githubusercontent.com/SeckinTataroglu/Python-Case-Studies-2/master/answers_task_3_img.png)
