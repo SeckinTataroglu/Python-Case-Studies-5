@@ -48,3 +48,4 @@ axis2.legend(lines + lines2, labels + labels2, loc="best")
 plt.show()
 ```
 
+![Image](https://raw.githubusercontent.com/SeckinTataroglu/Python-Case-Studies-2/master/answers_task_1_img.png)
