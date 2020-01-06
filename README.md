@@ -34,7 +34,7 @@ where  𝑖=0,1,2...,𝑁−1  and  𝑁  is the number of points in the arrays.
 
 
 
-## Task 3. Conditional area calculation [14 points]
+## Task 3. Conditional area calculation
 
 
 Write a code that performs the following tasks:
